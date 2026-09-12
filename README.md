@@ -2,7 +2,7 @@
 
 Penetration Tester & SOC Analyst based in Dubai, UAE 🇦🇪
 
-🔹 CompTIA Security+ (In Progress) | Cisco CCNA | BTL1 (In Progress)
+🔹 CompTIA Security+ | Cisco CCNA | BTL1
 🔹 Currently: Penetration Testing Intern @ Al Momani Cyber Solutions
 🔹 Focus: Digital Forensics · Network Forensics · Web App Security · SOC Operations
 
