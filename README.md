@@ -10,6 +10,6 @@ Penetration Tester & SOC Analyst based in Dubai, UAE 🇦🇪
 
 ## Featured Projects
 - 🌐 [Network Forensic Investigation — 404TDS to Cobalt Strike](link)
-- 💉 [SQL Injection Security Assessment](https://github.com/[your-username]/sql-injection-security-assessment)
-- 🔍 [Digital Forensics — M57-Jean Investigation](link)
+- 💉 [SQL Injection Security Assessment](https://github.com/khaledbaker/sql-injection-security-assessment)
+- 🔍 [Digital Forensics — M57-Jean Investigation](https://github.com/khaledbaker/data-leak-forensic-investigation)
 - 🎙️ [Vishing Detection System](link)
