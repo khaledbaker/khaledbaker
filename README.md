@@ -1,16 +1,15 @@
-## Hi there 👋
+# Khaled Baker | Cybersecurity Professional
 
-<!--
-**khaledbaker/khaledbaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Penetration Tester & SOC Analyst based in Dubai, UAE 🇦🇪
 
-Here are some ideas to get you started:
+🔹 CompTIA Security+ (In Progress) | Cisco CCNA | BTL1 (In Progress)
+🔹 Currently: Penetration Testing Intern @ Al Momani Cyber Solutions
+🔹 Focus: Digital Forensics · Network Forensics · Web App Security · SOC Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 khalid.baker4961@gmail.com | [LinkedIn]https://ae.linkedin.com/in/khalid-baker-820b69239?trk=people-guest_people_search-card
+
+## Featured Projects
+- 🌐 [Network Forensic Investigation — 404TDS to Cobalt Strike](link)
+- 💉 [SQL Injection Security Assessment](link)
+- 🔍 [Digital Forensics — M57-Jean Investigation](link)
+- 🎙️ [Vishing Detection System](link)
